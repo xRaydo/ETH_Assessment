@@ -1,4 +1,4 @@
-# MyToken Smart Contract
+# RatTax Coin (xdd)
 
 ## Overview
 
